@@ -31,7 +31,6 @@ For Hardware:
 -------
 
 ### Implementation
-For Software:
 # Installation
 Download all the pictures and the code to same folder and run the .py file
 
@@ -50,10 +49,6 @@ For Software:
 
 [Screenshot3] https://photos.app.goo.gl/K4xbHzmfHWQWmX5g6
 *HOMESCREEN*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 ### Project Demo
 # Video
