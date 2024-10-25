@@ -42,14 +42,14 @@ Basic commands
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://photos.app.goo.gl/L6qZkypmYsZh4r9r9)
-*Add caption explaining what this shows*
+[Screenshot1] https://photos.app.goo.gl/L6qZkypmYsZh4r9r9
+*CALCULATOR*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+[Screenshot2] https://photos.app.goo.gl/LyxW6R4PWu6tmah99
+*GIENIE*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+[Screenshot3] https://photos.app.goo.gl/K4xbHzmfHWQWmX5g6
+*HOMESCREEN*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
