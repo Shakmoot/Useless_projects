@@ -3,7 +3,7 @@ from tkinter import scrolledtext
 from PIL import Image, ImageTk
 
 def exit_fullscreen(event=None):
-    root.attributes('-fullscreen', False)
+    root.destroy()
 
 def start_menu(event=None):
     menu = tk.Menu(root, tearoff=0, bg='#c0c0c0', font=("Tahoma", 10))
@@ -97,4 +97,3 @@ create_desktop_icons()
 
 root.mainloop()
 
-#jhgdfv,kdf.kjl
