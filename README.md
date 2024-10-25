@@ -12,40 +12,37 @@
 - Member 2: Sreeram V Gopal - Albertian Institue of Science and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Our own version of Windows XP [with some unique features!!] which runs 2 USEFULL APPS and has basic functionalities
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Ever wondered if your calculator performed a little more efficientlyy!??
+No, right!? (EXACTLY)
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+the PERFECT calculator and a HELPFULL number picker
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- Tkinter
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-------
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Download all the pictures and the code to same folder and run the .py file
 
 # Run
-[commands]
+Basic commands
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](file:///C:/Users/sreer/OneDrive/Pictures/Screenshots/Screenshot%202024-10-25%20235744.png)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -58,25 +55,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
@@ -86,9 +64,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Shahrukh Dawood: Frontend
+- Sreeram: Backend
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
