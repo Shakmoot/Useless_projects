@@ -96,7 +96,3 @@ create_taskbar()
 create_desktop_icons()
 
 root.mainloop()
-<<<<<<< HEAD
-=======
-
->>>>>>> 9e573e351c947a24d4713f7a4710a300e1f887d2
