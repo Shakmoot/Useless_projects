@@ -42,7 +42,7 @@ def cancel_exit(confirm_window, app_window):
 def create_main_window_exit_confirmation():
     confirm = messagebox.askyesno("Exit Confirmation", "Are you sure you want to exit?")
     if confirm:
-        display_taskbar_message("Escape is in control")
+        display_taskbar_message("To escape take CONTROL of the situation")
 
 def display_taskbar_message(text):
     taskbar_message.config(text=text, font=("Tahoma", 16, "bold"))
@@ -141,14 +141,17 @@ def create_taskbar():
     taskbar = tk.Frame(root, bg='#004080', height=40)
     taskbar.pack(side='bottom', fill='x')
 
-    start_button = tk.Button(taskbar, text="Start", font=("Tahoma", 10),
-                             bg='#c0c0c0', relief='raised', width=8, height=2,
-                             command=start_menu)
+    # Load the start button icon
+    start_icon = ImageTk.PhotoImage(Image.open("start_icon.png").resize((40, 40)))  # Change the file name and size as needed
+
+    # Create a label with the start icon
+    start_button = tk.Label(taskbar, image=start_icon, bg='#004080', relief='flat')
+    start_button.image = start_icon  # Keep a reference to avoid garbage collection
+    start_button.bind("<Button-1>", start_menu)  # Bind left mouse click to the start_menu function
     start_button.pack(side='left', padx=5, pady=5)
 
     taskbar_message = tk.Label(taskbar, text="", bg='#004080', fg='white')
     taskbar_message.pack(side='right', padx=10)
-
 def start_menu(event=None):
     menu = tk.Menu(root, tearoff=0, bg='#c0c0c0', font=("Tahoma", 10))
     menu.add_command(label="Mind Reader", command=open_mind_reader)
