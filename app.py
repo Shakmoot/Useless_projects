@@ -96,5 +96,3 @@ create_taskbar()
 create_desktop_icons()
 
 root.mainloop()
-
-#jhgdfv,kdf.kjl
