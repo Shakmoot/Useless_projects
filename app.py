@@ -42,7 +42,7 @@ def cancel_exit(confirm_window, app_window):
 def create_main_window_exit_confirmation():
     confirm = messagebox.askyesno("Exit Confirmation", "Are you sure you want to exit?")
     if confirm:
-        display_taskbar_message("To escape take CONTROL of the situation")
+        display_taskbar_message("To escape, take CONTROL of the situation")
 
 def display_taskbar_message(text):
     taskbar_message.config(text=text, font=("Tahoma", 16, "bold"))
