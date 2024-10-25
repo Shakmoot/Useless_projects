@@ -42,7 +42,7 @@ Basic commands
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](file:///C:/Users/sreer/OneDrive/Pictures/Screenshots/Screenshot%202024-10-25%20235744.png)
+![Screenshot1](https://drive.google.com/file/d/1HwapkFB7wEYQIohdUPXnaerHbytmoL4-/view?usp=drive_link)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
