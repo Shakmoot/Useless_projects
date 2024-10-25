@@ -42,7 +42,7 @@ Basic commands
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]([https://drive.google.com/file/d/1HwapkFB7wEYQIohdUPXnaerHbytmoL4-/view?usp=drive_link](https://photos.app.goo.gl/L6qZkypmYsZh4r9r9))
+[Screenshot1]([https://drive.google.com/file/d/1HwapkFB7wEYQIohdUPXnaerHbytmoL4-/view?usp=drive_link](https://photos.app.goo.gl/L6qZkypmYsZh4r9r9))
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
